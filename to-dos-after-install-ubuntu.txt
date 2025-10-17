@@ -1,0 +1,12 @@
+to-dos after install ubuntu:
+1. install ibus
+2. install tweak and swap esc and caps
+3. install grub
+4. install curl
+5. install git
+6. install vscode
+7. install vimium
+8. install pavucontrol
+9. install node, npm, pnpm
+
+

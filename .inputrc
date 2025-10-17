@@ -1,0 +1,8 @@
+# Enable mode-specific indicators for Vi-mode in the command line
+set show-mode-in-prompt on
+
+# Normal/Command Mode (Set to Steady Block Cursor: \e[2 q)
+set vi-cmd-mode-string "\1\e[2 q\2"
+
+# Insert Mode (Set to Steady Vertical Bar/Line Cursor: \e[6 q)
+set vi-ins-mode-string "\1\e[6 q\2"
