@@ -61,6 +61,7 @@ Plug 'vim-scripts/ReplaceWithRegister'
 Plug 'christoomey/vim-titlecase'
 Plug 'preservim/nerdtree'
 Plug 'NLKNguyen/papercolor-theme'
+Plug 'michaeljsmith/vim-indent-object'
 call plug#end()
 
 " }}}
